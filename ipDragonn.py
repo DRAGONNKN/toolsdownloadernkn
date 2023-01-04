@@ -53,7 +53,7 @@ CYBER-D TEAM
 
 print (lgreen+bold+"         <===[[ coded by Dragonnkn ]]===> \n"+clear)
 
-print (yellow+bold+"   <---(( search on youtube nkngaming3296 ))--> \n"+clear)
+print (yellow+bold+"   <---(( search on youtube @nkngaming ))--> \n"+clear)
 
 ip = args.target
 
