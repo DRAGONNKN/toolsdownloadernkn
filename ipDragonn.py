@@ -1,4 +1,4 @@
-#coded by ipDragonn (Gray hat hacker )
+#coded by Dragonnkn (Gray hat hacker )
 
 #modules required
 
@@ -37,6 +37,7 @@ cyan = '\033[96m'
 #banner of script
 
 print (red+"""
+
 _   _ _  ___   _
 | \ | | |/ / \ | |
 |  \| | ' /|  \| |
@@ -44,13 +45,15 @@ _   _ _  ___   _
 |_| \_|_|\_\_| \_|
        Made by Dragonnkn
        
+CYBER-D TEAM 
 
+                                                      v 1.0
 
-""+red)
+"""+red)
 
 print (lgreen+bold+"         <===[[ coded by Dragonnkn ]]===> \n"+clear)
 
-print (yellow+bold+"   <---(( search on youtube; nkngaming3296 ))--> \n"+clear)
+print (yellow+bold+"   <---(( search on youtube nkngaming3296 ))--> \n"+clear)
 
 ip = args.target
 
