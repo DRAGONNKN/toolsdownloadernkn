@@ -37,24 +37,20 @@ cyan = '\033[96m'
 #banner of script
 
 print (red+"""
-
-____                                    _
-|  _ \ _ __ __ _  __ _  ___  _ __  _ __ | | ___ __
-| | | | '__/ _` |/ _` |/ _ \| '_ \| '_ \| |/ / '_ \
-| |_| | | | (_| | (_| | (_) | | | | | | |   <| | | |
-|____/|_|  \__,_|\__, |\___/|_| |_|_| |_|_|\_\_| |_|
-                 |___/|
+_   _ _  ___   _
+| \ | | |/ / \ | |
+|  \| | ' /|  \| |
+| |\  | . \| |\  |
+|_| \_|_|\_\_| \_|
        Made by Dragonnkn
-       |___/
-╚═╝╚═╝     ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚══════╝
+       
 
-                                                      v 1.0
 
-"""+red)
+""+red)
 
 print (lgreen+bold+"         <===[[ coded by Dragonnkn ]]===> \n"+clear)
 
-print (yellow+bold+"   <---(( search on youtube Rycoder_1 ))--> \n"+clear)
+print (yellow+bold+"   <---(( search on youtube; nkngaming3296 ))--> \n"+clear)
 
 ip = args.target
 
